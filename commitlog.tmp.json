@@ -1,0 +1,176 @@
+[
+  {
+    "commit": "4493e71f9",
+    "subject": "add readme",
+    "body": "docs(core): add readme",
+    "issue": [],
+    "hash": "e4493e71f93305e733a5cca90fc39eeb96014a83",
+    "file": [
+      "README.md"
+    ],
+    "date": "2023-10-01",
+    "type": "docs",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "c4ee10d4a",
+    "subject": "add editor config",
+    "body": "build(core): add editor config",
+    "issue": [],
+    "hash": "0c4ee10d4a9dcd20a747ebf00e81e8e98d53ede5",
+    "file": [
+      ".editorconfig"
+    ],
+    "date": "2023-10-03",
+    "type": "build",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "d5b7b6ec2",
+    "subject": "add license",
+    "body": "build(core): add license",
+    "issue": [],
+    "hash": "1d5b7b6ec2853dc68dfaac522c47b4b39f91e1e1",
+    "file": [
+      "LICENSE"
+    ],
+    "date": "2023-10-05",
+    "type": "build",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "941b55c10",
+    "subject": "add hello world",
+    "body": "feat(core): add hello world",
+    "issue": [],
+    "hash": "7941b55c1064fb5819850c29617e19dfbbf69f30",
+    "file": [
+      "Hello.c"
+    ],
+    "date": "2023-10-07",
+    "type": "feat",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "19301b88b",
+    "subject": "add hello world",
+    "body": "feat(core): add hello world",
+    "issue": [],
+    "hash": "a19301b88b276a1cf70cdee07f5704d43759d521",
+    "file": [
+      "Zero.c",
+      "Zero.h"
+    ],
+    "date": "2023-10-09",
+    "type": "feat",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "8ece5617b",
+    "subject": "add cmake config",
+    "body": "build(core): add cmake config",
+    "issue": [],
+    "hash": "18ece5617b7497b153927863fc0bd0e2a56d6a8a",
+    "file": [
+      "CMakeLists.txt"
+    ],
+    "date": "2023-10-11",
+    "type": "build",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "e184083fa",
+    "subject": "enable debug multi *.c files in cmake in vscode",
+    "body": "build(core): enable debug multi *.c files in cmake in vscode",
+    "issue": [],
+    "hash": "3e184083fae69adc9aa950885931dd6991467aaa",
+    "file": [
+      ".vscode/launch.json",
+      ".vscode/tasks.json"
+    ],
+    "date": "2023-10-13",
+    "type": "build",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "17207813d",
+    "subject": "add gitignore",
+    "body": "build(core): add gitignore",
+    "issue": [],
+    "hash": "117207813db41f9a5ccf357c37cfb36c38630697",
+    "file": [
+      ".gitignore"
+    ],
+    "date": "2023-10-15",
+    "type": "build",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "4d6b9f26b",
+    "subject": "add hello world",
+    "body": "feat(core): add hello world",
+    "issue": [],
+    "hash": "24d6b9f26baa6f1e0b5eca50bf8171a47d958d08",
+    "file": [
+      "Hello.c"
+    ],
+    "date": "2023-10-17",
+    "type": "feat",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "508cfc194",
+    "subject": "redesign project dirs",
+    "body": "refactor(core): redesign project dirs",
+    "issue": [],
+    "hash": "4508cfc194ce2167392c6822c4f43e21a15a666d",
+    "file": [
+      ".vscode/c_cpp_properties.json",
+      "CMakeLists.txt",
+      "include/Zero.h",
+      "src/Hello.c",
+      "src/Zero.c"
+    ],
+    "date": "2023-10-19",
+    "type": "refactor",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "35e2eec58",
+    "subject": "use SOURCE var to replace src",
+    "body": "build(core): use SOURCE var to replace src",
+    "issue": [],
+    "hash": "a35e2eec58ec1716dabfeb0d7292d15997395ccc",
+    "file": [
+      "CMakeLists.txt"
+    ],
+    "date": "2023-10-21",
+    "type": "build",
+    "scope": "core",
+    "foot": ""
+  },
+  {
+    "commit": "b9bf9be0e",
+    "subject": "add readme to setup this",
+    "body": "docs(core): add readme to setup this",
+    "issue": [],
+    "hash": "6b9bf9be0e4c34b51cfad8b1d45ffd351b394213",
+    "file": [
+      "README.01-SETUP.md"
+    ],
+    "date": "2023-10-23",
+    "type": "docs",
+    "scope": "core",
+    "foot": ""
+  }
+]
